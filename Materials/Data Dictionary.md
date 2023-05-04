@@ -12,3 +12,5 @@
 | text_reviews_count | numeric | Total number of written text reviews the book received. |
 | publication_date | date | Date when the book was first published. |
 | publisher | character | The name of the publisher. |
+
+source: https://www.kaggle.com/datasets/jealousleopard/goodreadsbooks
